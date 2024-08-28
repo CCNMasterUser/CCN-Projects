@@ -1,2 +1,2 @@
-# CCN-Projects
-A repository of CCN project documention
+# GTA CyberPaths
+
